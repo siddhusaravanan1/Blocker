@@ -1,0 +1,3 @@
+﻿  App.cpp
+glew32sd.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32sd.lib(glew.obj)' or at ''; linking object as if no debug info
+  Blocker(OpGL).vcxproj -> C:\Users\siddh\Documents\OpenGL\BasicEngine\Blocker(OpGL)\x64\Debug\Blocker(OpGL).exe
